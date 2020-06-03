@@ -44,7 +44,7 @@ pre-built binary releases.
 Every [release][release] of Starboard Octant plugin provides binary releases for a variety of operating systems. These
 binary versions can be manually downloaded and installed.
 
-1. Download your [desired version][release]
+1. Download your [desired version][release] (added Windows)
 2. Unpack it (`tar -zxvf starboard-octant-plugin_darwin_x86_64.tar`)
 3. Find the `starboard-octant-plugin` binary in the unpacked directory, and move it to the default Octant's
    configuration directory (`mv starboard-octant-plugin_darwin_x86_64/starboard-octant-plugin $HOME/.config/octant/plugins`).
